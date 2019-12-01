@@ -1,0 +1,12 @@
+C:\Users\LGWID\source\repos\Fisica\Fisica\bin\Debug\Fisica.exe.config
+C:\Users\LGWID\source\repos\Fisica\Fisica\bin\Debug\Fisica.exe
+C:\Users\LGWID\source\repos\Fisica\Fisica\bin\Debug\Fisica.pdb
+C:\Users\LGWID\source\repos\Fisica\Fisica\bin\Debug\Fisica.xml
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.vbprojAssemblyReference.cache
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.Form1.resources
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.Resources.resources
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.vbproj.GenerateResource.cache
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.exe
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.xml
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.pdb
+C:\Users\LGWID\source\repos\Fisica\Fisica\obj\Debug\Fisica.Form2.resources
